@@ -24,3 +24,10 @@ display_all_grades()
 delete_grade("John Doe")
 display_all_grades()
 
+add_update_grade("John Doe", 88)
+add_update_grade("Jane Smith", 93)
+display_all_grades()
+delete_grade("John Doe")
+display_all_grades()
+
+
